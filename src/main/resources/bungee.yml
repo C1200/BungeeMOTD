@@ -1,0 +1,4 @@
+name: BungeeMOTD
+version: ${project.version}
+main: org.js.c1200.bungeemotd.Main
+description: Dynamic MOTD for BungeeCord
