@@ -8,6 +8,8 @@ A simple plugin for bungeecord to show a custom MOTD.
 - Dynamic messages.
 - Ability to add up all max players from your servers to display in the server list.
 
+Support: https://discord.gg/m8UPDNhwzP
+
 ---
 
 Copyright &copy; 2021 Ultimate Media. Licensed under the [ISC](LICENSE) software license.
